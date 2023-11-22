@@ -1,0 +1,13 @@
+.div-footer{
+    background-color: black;
+
+}
+.icons{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 2rem;
+}
+
+.list{
+    list-style: none;
+}

@@ -1,0 +1,20 @@
+.first{
+    background-image: url('https://www.audi.com/content/dam/gbp2/careers/Working-at-Audi/culture/six-generations-at-audi/1920x600_Familiengeschichte-05.jpg?imwidth=1700&imdensity=1');
+    height: 70vh;
+}
+
+.para{
+    font-family: 'Alatsi', sans-serif;
+    font-size: 70px;
+    margin-bottom: 25px;
+}
+
+.tera{
+    font-family: 'Alatsi', sans-serif;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.h-btn{
+    font-size: 30px;
+    margin-top: 5px;
+}
